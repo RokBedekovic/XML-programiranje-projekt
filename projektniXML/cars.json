@@ -1,0 +1,120 @@
+{
+  "cars": {
+    "mazda": [
+      {
+        "model": "Mazda3",
+        "image": "mazda_3.jpg",
+        "year": 2021,
+        "price": 25000,
+        "engine": 2.4,
+        "fuelType": "benzin",
+        "available": true
+      },
+      {
+        "model": "Mazda2",
+        "image": "mazda_2.jpg",
+        "year": 2021,
+        "price": 21000,
+        "engine": 1.2,
+        "fuelType": "benzin",
+        "available": true
+      },
+      {
+        "model": "Mazda6",
+        "image": "mazda_6.jpg",
+        "year": 2021,
+        "price": 24000,
+        "engine": 2.4,
+        "fuelType": "benzin",
+        "available": false
+      }
+    ],
+    "honda": [
+      {
+        "model": "Civic",
+        "image": "honda_civic.jpg",
+        "year": 2021,
+        "price": 30000,
+        "engine": 1.5,
+        "fuelType": "benzin",
+        "available": true
+      },
+      {
+        "model": "Jazz",
+        "image": "honda_jazz.jpg",
+        "year": 2021,
+        "price": 25000,
+        "engine": 1.0,
+        "fuelType": "benzin",
+        "available": true
+      },
+      {
+        "model": "CR-V",
+        "image": "honda_crv.jpg",
+        "year": 2021,
+        "price": 36000,
+        "engine": 1.5,
+        "fuelType": "benzin",
+        "available": false
+      }
+    ],
+    "toyota": [
+      {
+        "model": "Corolla",
+        "image": "toyota_corolla.jpg",
+        "year": 2021,
+        "price": 25000,
+        "engine": 1.8,
+        "fuelType": "benzin",
+        "available": false
+      },
+      {
+        "model": "Yaris",
+        "image": "toyota_yaris.jpg",
+        "year": 2021,
+        "price": 22000,
+        "engine": 1.0,
+        "fuelType": "benzin",
+        "available": true
+      },
+      {
+        "model": "RAV4",
+        "image": "toyota_rav4.jpg",
+        "year": 2021,
+        "price": 26000,
+        "engine": 2.5,
+        "fuelType": "electric",
+        "available": true
+      }
+    ],
+    "suzuki": [
+      {
+        "model": "Swift",
+        "image": "suzuki_swift.jpg",
+        "year": 2021,
+        "price": 16000,
+        "engine": 1.2,
+        "fuelType": "benzin",
+        "available": true
+      },
+      {
+        "model": "Vitara",
+        "image": "suzuki_vitara.jpg",
+        "year": 2021,
+        "price": 22000,
+        "engine": 1.4,
+        "fuelType": "benzin",
+        "available": true
+      },
+      {
+        "model": "Ignis",
+        "image": "suzuki_ignis.jpg",
+        "year": 2021,
+        "price": 20000,
+        "engine": 1.0,
+        "fuelType": "benzin",
+        "available": true
+      }
+    ]
+  }
+}
